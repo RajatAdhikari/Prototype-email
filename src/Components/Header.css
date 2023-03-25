@@ -1,0 +1,14 @@
+.header{
+    background-color: #0a7583;
+    height: 64px;
+}
+img{
+    margin-left: 10px;
+}
+.title{
+    font-size: 32px;
+    font-weight: 600;
+    margin-left: 10px;
+    position: relative;
+    bottom: 16px;
+}

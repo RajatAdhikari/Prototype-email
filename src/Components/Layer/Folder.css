@@ -1,0 +1,42 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+    width: max-content;
+    height:91vh;
+    
+}
+.list-group-item{
+    font-size: 22px;
+}
+.section1{
+    background-color: rgb(12, 97, 153);
+    border-right: 1px solid rgb(12, 1, 1);
+    padding: 20px;
+    width: 200px;
+}
+.section2{
+    background-color:rgb(220, 250, 255);
+    padding: 20px;
+    border-right: 1px solid rgb(2, 21, 22);
+    width: 500px;
+}
+.section3{
+    background-color:rgb(220, 250, 255);
+    padding: 20px;
+}
+.subject{
+    font-weight: 500;
+}
+.content{
+    color: rgb(0, 132, 255);
+}
+.divider{
+    background-color: black;
+    position: relative;
+    right: 20px;
+    height: 1px;
+    width: 500px;
+}
+.fullContentContent{
+    width: 800px;
+}
